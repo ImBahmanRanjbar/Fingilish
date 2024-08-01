@@ -1,0 +1,16 @@
+G:\projects\Phinglish\Finglish\bin\Debug\net8.0-windows\Finglish.exe
+G:\projects\Phinglish\Finglish\bin\Debug\net8.0-windows\Finglish.deps.json
+G:\projects\Phinglish\Finglish\bin\Debug\net8.0-windows\Finglish.runtimeconfig.json
+G:\projects\Phinglish\Finglish\bin\Debug\net8.0-windows\Finglish.dll
+G:\projects\Phinglish\Finglish\bin\Debug\net8.0-windows\Finglish.pdb
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.Form1.resources
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.csproj.GenerateResource.cache
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.AssemblyInfoInputs.cache
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.AssemblyInfo.cs
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.csproj.CoreCompileInputs.cache
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.dll
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\refint\Finglish.dll
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.pdb
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\Finglish.genruntimeconfig.cache
+G:\projects\Phinglish\Finglish\obj\Debug\net8.0-windows\ref\Finglish.dll
